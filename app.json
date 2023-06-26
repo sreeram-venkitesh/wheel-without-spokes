@@ -38,13 +38,16 @@
   "formation": {},
   "addons": [
     {
-      "plan": "heroku-postgresql",
+      "plan": "neetodeploy-postgresql",
       "options": {
         "version": "12"
       }
     },
     {
-      "plan": "heroku-redis:hobby-dev"
+      "plan": "neetodeploy-redis:standard"
+    },
+    {
+      "plan": "neetodeploy-elasticsearch:pro"
     }
   ],
   "buildpacks": [
