@@ -38,16 +38,13 @@
   "formation": {},
   "addons": [
     {
-      "plan": "neetodeploy-postgresql:standard",
+      "plan": "neetodeploy-postgresql",
       "options": {
         "version": "12"
       }
     },
     {
       "plan": "neetodeploy-redis:standard"
-    },
-    {
-      "plan": "neetodeploy-elasticsearch:pro"
     }
   ],
   "buildpacks": [
