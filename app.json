@@ -45,7 +45,7 @@
     },
     {
       "plan": "neetodeploy-redis:standard"
-    }
+    },
     {
       "plan": "neetodeploy-elasticsearch:pro"
     }
