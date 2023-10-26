@@ -42,6 +42,24 @@
       "options": {
         "version": "14"
       }
+    },
+    {
+      "plan": "heroku-redis:hobby-dev",
+      "options": {
+        "version": "14"
+      }
+    },
+    {
+      "plan": "searchbox:starter",
+      "options": {
+        "version": "14"
+      }
+    },
+    {
+      "plan": "bonsai:sandbox-6",
+      "options": {
+        "version": "14"
+      }
     }
   ],
   "buildpacks": [
