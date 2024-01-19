@@ -17,7 +17,7 @@ system.
 
 After `yarn` is installed, install the Node.js and Rails dependencies and also
 seed the database, by running:
-
+testest
 ```bash
 ./bin/setup
 ```
